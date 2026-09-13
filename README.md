@@ -31,5 +31,5 @@ LocalSpot uses the Geoapify Geocoding API to convert a searched location into la
 
 These coordinates are used to search for places in the vicinity using the Geoapify Places API. The search results are filtered on the client-side using JavaScript. The results are displayed as card for each place on the page.
 
-#Author
+# Author
 Built by Thy Thao Le Huynh
